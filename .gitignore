@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# Dataset
+dataset/
+
+# Model
+*.h5
+*.tflite
+
+# NodeJS
+node_modules/
+
+# Log
+*.log
